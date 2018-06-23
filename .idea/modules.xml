@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sele.iml" filepath="$PROJECT_DIR$/.idea/sele.iml" />
       <module fileurl="file://$PROJECT_DIR$/../selenium8/.idea/untitled.iml" filepath="$PROJECT_DIR$/../selenium8/.idea/untitled.iml" />
     </modules>
   </component>
